@@ -1,5 +1,5 @@
 # Netflix
-Bharat intern web development Task - 3
+Bharat intern web development 
 
 Homepage of Netflix
 
